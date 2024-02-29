@@ -1,5 +1,6 @@
 # Expected Goals(xG) Model
 This repository contains a working model of the xG metric used in the sport of Football.
+![xg](https://github.com/ivan-reni-varghese/xG-Model/assets/86720578/62d7d3f4-dc9d-4a02-8dd5-00eb8e91dd1e)
 
 
 # What is xG?
