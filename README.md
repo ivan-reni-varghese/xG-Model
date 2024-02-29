@@ -1,7 +1,7 @@
 # Expected Goals(xG) Model
 This repository contains a working model of the xG metric used in the sport of Football.
 
-![xG Image](https://github.com/[ivan-reni-varghese]/[xG-Model]/blob/[main]/xg.png?raw=true)
+
 # What is xG?
 - metric designed to measure the probability of a shot resulting in a goal
 - uses historical information from thousands of shots with similar characteristics
