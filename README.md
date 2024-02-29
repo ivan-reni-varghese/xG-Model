@@ -12,3 +12,9 @@ Major features/factors fed into the model :
 - Angle to goal
 - Body part with which the shot was taken with
 - Type of assist/situation
+
+# Models Used :
+- Random Forest
+- CatBoost
+- XG Boost
+- LightGBM
